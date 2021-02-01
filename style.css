@@ -1,0 +1,43 @@
+p{
+position: absolute;
+width: 1250px;
+height: 228px;
+left: 118px;
+top: 199px;
+
+font-family: Amarante;
+font-style: normal;
+font-weight: normal;
+font-size: 90px;
+line-height: 112px;
+text-align: center;
+
+color: #CEB98F;
+}
+
+.button{
+background-color: #AB0303;
+color: #000000;
+text-align: center;
+position: absolute;
+width: 430px;
+height: 101px;
+left: 505px;
+top: 629px;
+font-family: Amarante;
+font-size: 40px;
+line-height: 50px;
+border-radius: 50px;
+}
+
+.journal{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.end{
+	max-width: 100%;
+	max-height: auto;
+}
